@@ -212,12 +212,6 @@ tail -f logs/client.log
 ```
 
 
-## 🙏 Acknowledgments
-
-- [Ollama](https://ollama.ai/) - Amazing local LLM runtime
-- [Streamlit](https://streamlit.io/) - Beautiful web framework
-- [Flask](https://flask.palletsprojects.com/) - Lightweight API framework
-
 ## 📞 Support
 
 - Email: elitdomingos@gmail.com 
